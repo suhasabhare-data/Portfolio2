@@ -2,8 +2,6 @@
 # 📜SQL
 # 🧠 SQL Projects Portfolio
 
-# 🧠 SQL Projects Portfolio
-
 | 🔗 Project Link | 🛠 Tools Used     | 📊 Area of Analysis                          | 📝 Project Description |
 |----------------|------------------|---------------------------------------------|------------------------|
 | [DANNYMAS SQL](https://8weeksqlchallenge.com) | MySQL            | Data Analysis, Data Cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
